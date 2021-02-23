@@ -3,6 +3,14 @@
 This repository contains the package manifest for adding __ArcGIS Runtime SDK for iOS__ to your project as a Swift package via Swift Package Manager (SPM)
 
 ## Instructions
+1. Open your project in Xcode
+2. Go to _File_ menu > _Swift Packages_ > _Add Package Dependency_ option
+3. Enter `https://github.com/ArcGIS/arcgis-runtime-ios/` as the package repository URL
+4. Choose a specific version or the latest version. Click Next.
+
+That's it. ArcGIS Runtime SDK for iOS has been integrated into your project as a swift package. 
+
+Try out some of the tutorials.
 
 ## Requirements
 
