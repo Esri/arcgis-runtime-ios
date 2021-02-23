@@ -30,6 +30,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [License.txt](https://github.com/esri/arcgis-runtime-ios/blob/master/license.txt) file.
-
-[](Esri Tags: ArcGIS Runtime SDK iOS)
-[](Esri Language: Swift)​
