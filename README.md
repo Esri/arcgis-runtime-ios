@@ -1,6 +1,6 @@
 # Overview
 
-This is the package repository for adding __ArcGIS Runtime SDK for iOS__ to your project using Swift Package Manager (SPM)
+This is the package repository for adding __ArcGIS Runtime SDK for iOS__ to your project using Swift Package Manager (SPM).
 
 ## Instructions
 1. Open your project in Xcode
@@ -14,7 +14,7 @@ That's it. ArcGIS Runtime SDK for iOS has been integrated into your project as a
 Try out some of the tutorials.
 
 ## Requirements
-- Xcode
+- Xcode 11.0 (or higher)
 
 ## Resources
 - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/)
