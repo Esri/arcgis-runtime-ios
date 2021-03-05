@@ -14,7 +14,7 @@ That's it. ArcGIS Runtime SDK for iOS has been integrated into your project as a
 Try out some of the tutorials.
 
 ## Requirements
-- Xcode 11.0 (or higher)
+- Xcode 12.0 (or higher)
 
 ## Resources
 - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/)
