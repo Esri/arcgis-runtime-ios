@@ -27,7 +27,7 @@ import PackageDescription
 let package = Package(
     name: "ArcGIS",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -38,7 +38,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.10.xcframework.zip",
+            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.11.xcframework.zip",
             checksum: "a68cf140a2adb872e1cca940ddda1e1f990e5f1385e5ecad4c4a1266297e305f"
         )
     ]
