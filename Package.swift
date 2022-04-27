@@ -38,13 +38,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.13.2.xcframework.zip",
-            checksum: "77894d301e737c8ec9b90a92ed8c427070d6503eabeb34fc7334daacd8901e46"
+            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.14.xcframework.zip",
+            checksum: "03883c3cc716ad1aa308c6867dfc04c7d71de3367e27a7e03f92a241b5e0270e"
         ),
         .binaryTarget(
             name: "Runtimecore",
-            url: "https://developers.arcgis.com/ios/downloads/Runtimecore-v100.13.2.xcframework.zip",
-            checksum: "687b08cd3820b5a1a887239b2fb1a7dc8a53d4fedc558002c3bb70b6e39b3cfb"
+            url: "https://developers.arcgis.com/ios/downloads/Runtimecore-v100.14.xcframework.zip",
+            checksum: "db10bdaf804717557451815595472b70ddbf32861bd3812059e63affedcbdf5a"
         )
     ]
 )
