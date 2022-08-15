@@ -27,7 +27,7 @@ import PackageDescription
 let package = Package(
     name: "arcgis-runtime-ios",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(
@@ -38,13 +38,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ArcGIS",
-            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.14.1.xcframework.zip",
-            checksum: "9f4f92a4851768216ac826fb5129bb046660129e2f0bffce047eed7bf07e476e"
+            url: "https://developers.arcgis.com/ios/downloads/ArcGIS-iOS-v100.15.xcframework.zip",
+            checksum: "98d2ed29d277eb175e3ba3733bf34c40c9894a77c338d90e0143f55ebc291747"
         ),
         .binaryTarget(
             name: "Runtimecore",
-            url: "https://developers.arcgis.com/ios/downloads/Runtimecore-v100.14.1.xcframework.zip",
-            checksum: "e9fb270915bb762a9a0cc79be74ee4f82061c0c66f3309ac2ad7a37726eee71a"
+            url: "https://developers.arcgis.com/ios/downloads/Runtimecore-v100.15.xcframework.zip",
+            checksum: "7a636b3b5b7496f841472da8bc009e74dd4d95270b6ebf45a043c5e3d872d1d4"
         )
     ]
 )
